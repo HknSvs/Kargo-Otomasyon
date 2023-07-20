@@ -1,0 +1,16 @@
+C:\Users\gameo\source\repos\HİGS KARGO\HİGS KARGO\bin\Debug\HİGS KARGO.exe.config
+C:\Users\gameo\source\repos\HİGS KARGO\HİGS KARGO\bin\Debug\HİGS KARGO.exe
+C:\Users\gameo\source\repos\HİGS KARGO\HİGS KARGO\bin\Debug\HİGS KARGO.pdb
+C:\Users\gameo\source\repos\HİGS KARGO\HİGS KARGO\obj\Debug\HİGS KARGO.csproj.AssemblyReference.cache
+C:\Users\gameo\source\repos\HİGS KARGO\HİGS KARGO\obj\Debug\HİGS KARGO.csproj.SuggestedBindingRedirects.cache
+C:\Users\gameo\source\repos\HİGS KARGO\HİGS KARGO\obj\Debug\HİGS_KARGO.Properties.Resources.resources
+C:\Users\gameo\source\repos\HİGS KARGO\HİGS KARGO\obj\Debug\HİGS KARGO.csproj.GenerateResource.cache
+C:\Users\gameo\source\repos\HİGS KARGO\HİGS KARGO\obj\Debug\HİGS KARGO.csproj.CoreCompileInputs.cache
+C:\Users\gameo\source\repos\HİGS KARGO\HİGS KARGO\obj\Debug\HİGS KARGO.exe
+C:\Users\gameo\source\repos\HİGS KARGO\HİGS KARGO\obj\Debug\HİGS KARGO.pdb
+C:\Users\gameo\source\repos\HİGS KARGO\HİGS KARGO\obj\Debug\HİGS_KARGO.Giris.resources
+C:\Users\gameo\source\repos\HİGS KARGO\HİGS KARGO\obj\Debug\HİGS_KARGO.CalisanAnasayfa.resources
+C:\Users\gameo\source\repos\HİGS KARGO\HİGS KARGO\obj\Debug\HİGS_KARGO.InsanKaynaklarıUC.resources
+C:\Users\gameo\source\repos\HİGS KARGO\HİGS KARGO\obj\Debug\HİGS_KARGO.DepoUC.resources
+C:\Users\gameo\source\repos\HİGS KARGO\HİGS KARGO\obj\Debug\HİGS_KARGO.MuhasebeUC.resources
+C:\Users\gameo\source\repos\HİGS KARGO\HİGS KARGO\obj\Debug\HİGS_KARGO.SürücüUC.resources
